@@ -6,8 +6,8 @@ Requirements:
 
 Execution:
 
-- Clone this repository using "git clone https://github.com/PrynceBrazy/Cryptocurrency-price-app.git"
+- Clone this repository using "git clone "https://github.com/PrynceBrazy/Cryptocurrency-Price-App"
 - OR Zip Download the Repository and Extract it's contents.
-- Now run the Bitcoin Price Tracker file directly in your Terminal using "python BitcoinGUI.py" or "python3 BitcoinGUI.py"
+- Now run the Cryptocurrency Price Tracker file directly in your Terminal using "python app.py" or "python3 app.py"
 
 Developers: Braden Stitt (PrynceBrazy)
